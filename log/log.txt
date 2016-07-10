@@ -1,0 +1,14 @@
+Wed May 13 19:05:17 CEST 2015 : Login attempt.
+Wed May 13 19:05:21 CEST 2015 : Login successful - ID: 4
+Wed May 13 19:05:40 CEST 2015 : Attempt to adding existing product.
+Wed May 13 19:05:40 CEST 2015 : Adding existing product was successful.
+Wed May 13 19:05:46 CEST 2015 : Attempt to remove existing product.
+Wed May 13 19:05:46 CEST 2015 : Removing existing product was successful.
+Wed May 13 19:05:59 CEST 2015 : Attempt to adding existing product.
+Wed May 13 19:05:59 CEST 2015 : Adding existing product failed : Wrong amount format, only positive integers are allowed.
+Wed May 13 19:06:29 CEST 2015 : Attempt to adding existing product.
+Wed May 13 19:06:29 CEST 2015 : Adding existing product was successful.
+Wed May 13 19:06:41 CEST 2015 : Attempt to remove existing product.
+Wed May 13 19:06:41 CEST 2015 : Removing existing product failed.
+Wed May 13 19:06:43 CEST 2015 : Attempt to remove existing product.
+Wed May 13 19:06:44 CEST 2015 : Removing existing product was successful.
